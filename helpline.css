@@ -1,0 +1,210 @@
+
+html { 
+  background: 
+    url() no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+ 
+}
+
+
+a {
+  color: white;
+  text-decoration: none; /* no underline */
+  justify-content: end;
+  text-decoration:none;
+  letter-spacing:3px;
+  font-weight:bold;
+  
+}
+
+a:hover 
+{
+     color: white; 
+     text-decoration:none; 
+     cursor:pointer;  
+}
+
+.nav-item{
+  
+  font-family: 'Poppins', sans-serif;
+  letter-spacing:3px;
+  font-weight:bold;
+  font-size:20px;
+  margin-right:50px;
+}
+
+.navbar-brand{
+  
+  text-transform: uppercase;
+  letter-spacing:5px;
+  font-size:30px;
+  font-family: 'Poppins', sans-serif;
+  
+}
+#navbarMenu{
+  margin:20px;
+}
+.logo{
+  letter-spacing:5px;
+  margin-left:20px;
+}
+
+
+.linklogo{
+  color:white;
+  text-decoration: none;
+
+}
+
+.buttondiv{
+  display:flex;
+  justify-content:center;
+}
+
+
+.helplinelink{
+  font-family: 'Poppins', sans-serif;
+  letter-spacing:3px;
+  font-weight:bold;
+  font-size:20px;
+ 
+}
+
+
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Brandon Text';
+}
+
+p, a, li, ul {
+  font-family: 'Avenir', sans-serif;
+  letter-spacing: .02em;
+}
+
+.btn-sections {
+  font-family: 'Brandon Text';
+  background-color: #ffffff00;
+  border-width: 1px;
+  display: inline-block;
+  padding: 8px 20px;
+
+  width: auto;
+  line-height: 1.42;
+  font-weight: bold;
+  text-decoration: none;
+  text-align: center;
+  vertical-align: middle;
+  white-space: normal;
+  cursor: pointer;
+  border: 2px solid #000000;
+  min-width: 100px;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  border-radius: 2px;
+  box-shadow: inset 0 0 0 0 black;
+  transition: .75s;
+}
+
+.btn-sections:hover {
+      color: #fff;
+      box-shadow: inset 960px 0 0 0 grey;
+    }
+
+
+    /*row 1*/
+    .divrow1{
+      min-width: 50%;
+     
+    }
+
+    .hrrow1{
+      
+    border: 1px solid #00000026; width: 25%; margin-left:0;
+    }
+
+    .btnhr{
+
+      border: none; height: 1px;
+    }
+
+    .imgrow1{
+      margin-right: 40px;
+    }
+    .prow1{
+      
+     padding-top: 5px; font-size: 11px; color: #00000059;
+    }
+
+    .arow1{
+      margin:5px;
+ color: #00000059; text-decoration: none;
+    }
+
+    .divprevention{
+      
+height: auto;  color: #1c1d1d; margin-bottom: 20px;
+    }
+
+    /*row 2*/
+
+
+.imgrow2{
+margin-right: 40px;
+}
+
+.divrow2{
+min-width: 50%;
+}
+
+.hrrow2{
+border: 1px solid #00000026; width: 25%; margin-left:0;
+
+}
+
+.hr2row2{
+ border: none; height: 1px;
+}
+
+
+
+html, body {
+  background-color: none;
+  background:none;
+  width: 100%;
+  overflow-x: hidden;
+}
+
+  .suicidehotline{
+  font-family: 'Poppins', sans-serif;
+  letter-spacing:3px;
+  
+  
+  margin-right:50px;
+  text-align:center;
+  padding-top:15px;
+  }
+
+  .buttontdesign{
+    color:black;
+  }
+
+  .btn-sections{
+    padding:10px;
+    margin-left:10px;
+  }
+  .paragraphcitation{
+font-size: 15px;
+font-style: italic;
+  }
+
+  p {
+    padding:10px;
+  }
+
+  h2{
+    padding:10px;
+  }
+
