@@ -1,0 +1,104 @@
+
+html { 
+  background: 
+    url(./images/gayisgood.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  
+    
+  
+
+}
+
+
+a {
+  color: white;
+  text-decoration: none; /* no underline */
+  justify-content: end;
+  
+  text-decoration:none;
+  letter-spacing:3px;
+  font-weight:bold;
+  
+}
+
+a:hover 
+{
+     color: white; 
+     text-decoration:none; 
+     cursor:pointer;  
+}
+
+.nav-item{
+  
+  font-family: 'Poppins', sans-serif;
+  letter-spacing:3px;
+  font-weight:bold;
+  font-size:20px;
+  margin-right:50px;
+}
+
+.navbar-brand{
+  
+  text-transform: uppercase;
+  letter-spacing:5px;
+  font-size:30px;
+  font-family: 'Poppins', sans-serif;
+  
+}
+#navbarMenu{
+  margin:20px;
+}
+.logo{
+  letter-spacing:5px;
+  margin-left:20px;
+}
+
+
+.card-img-top{
+  min-height:200px;
+  }
+
+  
+
+.linklogo{
+  color:white;
+  text-decoration: none;
+
+}
+
+.footer{
+  font-size:20px;
+  letter-spacing:5px;
+  text-align: center;
+}
+
+.btn{
+  max-width:300px;
+margin-top: 200px;;
+overflow-x: hidden;
+}
+.buttondiv{
+  display:flex;
+  justify-content:center;
+}
+
+.btn{
+ width:500px;
+flex:row;
+
+
+}
+
+
+html body {
+  background-color: none;
+ background:none;
+
+}
+
+.footer{
+  margin-top:50px;
+}
